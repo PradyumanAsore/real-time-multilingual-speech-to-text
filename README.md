@@ -65,7 +65,7 @@ Specifically engineered for real-time transcription of **Hindi**, **English**, a
 ## 📁 Project Structure
 
 ```
-Transcription/
+real-time-multilingual-speech-to-text/
 ├── backend/
 │   ├── app/
 │   │   ├── api/routes/transcriptions.py   # REST API CRUD & stats endpoints
